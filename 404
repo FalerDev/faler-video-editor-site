@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Official website for Faler Video Editor, a desktop video editing and publishing workflow application.">
+  <title>Page not found — Faler Video Editor</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav">
+      <a class="brand" href="index.html">
+        <span class="logo">F</span>
+        <span>Faler Video Editor</span>
+      </a>
+      <div class="nav-links">
+        <a href="privacy.html">Privacy</a>
+        <a href="terms.html">Terms</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="eyebrow"><span class="dot"></span> Desktop video workflow</div>
+      <h1>Page not found.</h1>
+      <p>
+        The page you requested does not exist. Return to the official Faler Video Editor website.
+      </p>
+      <div class="actions">
+        <a class="button" href="privacy.html">Privacy Policy</a>
+        <a class="button secondary" href="terms.html">Terms of Service</a>
+      </div>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <div class="num">01</div>
+        <h2>Local editing workflow</h2>
+        <p>Video preparation and rendering are performed on the user's computer unless the user chooses to publish content to a connected service.</p>
+      </article>
+      <article class="card">
+        <div class="num">02</div>
+        <h2>User-authorized publishing</h2>
+        <p>Connections to third-party services use their authorization flows. Users choose which account to connect and can disconnect it.</p>
+      </article>
+      <article class="card">
+        <div class="num">03</div>
+        <h2>Transparent policies</h2>
+        <p>These public pages explain how the application handles licensing, account connections, local files and third-party integrations.</p>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <span>© 2026 Faler Video Editor</span>
+      <div class="footer-links">
+        <a href="privacy.html">Privacy Policy</a>
+        <a href="terms.html">Terms of Service</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
