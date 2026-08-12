@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Terms of Service for Faler Video Editor.">
+  <title>Terms of Service — Faler Video Editor</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav">
+      <a class="brand" href="index.html">
+        <span class="logo">F</span>
+        <span>Faler Video Editor</span>
+      </a>
+      <div class="nav-links">
+        <a href="privacy.html">Privacy</a>
+        <a href="terms.html">Terms</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="legal-wrap">
+    <article class="legal-card">
+      <div class="eyebrow">Legal</div>
+      <h1>Terms of Service</h1>
+      <div class="meta">Effective date: August 11, 2026</div>
+
+      <p>
+        These Terms of Service ("Terms") govern use of Faler Video Editor ("Faler", "we", "our",
+        or "the Application"). By using the Application, you agree to these Terms.
+      </p>
+
+      <h2>1. Purpose of the Application</h2>
+      <p>
+        Faler is a desktop video workflow application that can prepare short-form videos, organize
+        batches, create local output files, and connect to supported third-party publishing
+        platforms through user-authorized accounts.
+      </p>
+
+      <h2>2. License to use Faler</h2>
+      <p>
+        Access to some or all features may require a valid Faler license key. A license is limited
+        to the terms under which it was issued and may be subject to device activation, expiration,
+        suspension, or revocation when required to enforce these Terms, prevent misuse, or protect
+        the service.
+      </p>
+      <p>
+        Users may not attempt to bypass licensing controls, interfere with license validation, or
+        distribute unauthorized copies of the Application.
+      </p>
+
+      <h2>3. User accounts and third-party services</h2>
+      <p>
+        Users are responsible for the accounts they connect to Faler. Connections to services such
+        as YouTube or TikTok are subject to the connected service's own terms, policies, eligibility
+        requirements, API limitations, and enforcement decisions.
+      </p>
+      <p>
+        Faler does not guarantee that any third-party platform will approve, publish, schedule,
+        monetize, recommend, or keep content available.
+      </p>
+
+      <h2>4. User content and permissions</h2>
+      <p>
+        Users retain responsibility for the videos, audio, images, titles, and other content they
+        process or publish through the Application. Users must have the rights and permissions
+        needed to use and publish their content.
+      </p>
+      <p>
+        Users may not use Faler to violate intellectual property rights, privacy rights, platform
+        rules, applicable laws, or third-party terms.
+      </p>
+
+      <h2>5. Publishing and scheduling</h2>
+      <p>
+        Scheduling and publishing features depend on the Application, the user's computer,
+        internet connectivity, valid authorization, and the availability and rules of connected
+        third-party services. Scheduled actions may fail or be delayed because of connectivity,
+        expired authorization, API limits, platform restrictions, application closure, service
+        outages, or other technical conditions.
+      </p>
+
+      <h2>6. Acceptable use</h2>
+      <p>Users agree not to:</p>
+      <ul>
+        <li>use the Application to gain unauthorized access to accounts or systems;</li>
+        <li>misrepresent ownership or authorization for accounts or content;</li>
+        <li>use automated publishing features to evade platform safety, spam, or integrity rules;</li>
+        <li>reverse engineer or modify the Application except where applicable law expressly permits it;</li>
+        <li>interfere with the operation, security, licensing, or update systems of Faler.</li>
+      </ul>
+
+      <h2>7. Updates and changes</h2>
+      <p>
+        We may update Faler to improve features, security, compatibility, or compliance. Some
+        integrations may change or stop working when a third-party provider changes its APIs,
+        policies, or review status.
+      </p>
+
+      <h2>8. Availability and disclaimer</h2>
+      <p>
+        The Application is provided on an "as available" basis. To the extent permitted by law,
+        we do not guarantee uninterrupted operation, error-free publishing, permanent availability
+        of third-party integrations, or specific performance results.
+      </p>
+
+      <h2>9. Limitation of liability</h2>
+      <p>
+        To the extent permitted by applicable law, Faler will not be liable for indirect,
+        incidental, special, or consequential losses resulting from use of the Application,
+        third-party service decisions, failed uploads, missed schedules, content removal, account
+        restrictions, or loss of locally stored data.
+      </p>
+
+      <h2>10. Termination</h2>
+      <p>
+        Users may stop using the Application at any time. We may suspend or revoke access where
+        reasonably necessary to address fraud, abuse, security risks, unauthorized distribution,
+        or material violations of these Terms.
+      </p>
+
+      <h2>11. Changes to these Terms</h2>
+      <p>
+        We may update these Terms as the Application changes. The effective date above will be
+        updated when revised Terms are published.
+      </p>
+
+      <h2>12. Contact</h2>
+      <p>
+        Questions about these Terms can be sent to:
+        <strong>YOUR_SUPPORT_EMAIL</strong>
+      </p>
+
+      <div class="notice">
+        Before publishing this website, replace <strong>YOUR_SUPPORT_EMAIL</strong> with an email
+        address you actually control.
+      </div>
+    </article>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <span>© 2026 Faler Video Editor</span>
+      <div class="footer-links">
+        <a href="index.html">Home</a>
+        <a href="privacy.html">Privacy Policy</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
