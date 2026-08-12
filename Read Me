@@ -1,0 +1,52 @@
+FALER VIDEO EDITOR — SITE OFICIAL / TIKTOK REVIEW
+=================================================
+
+ARQUIVOS
+- index.html       -> página oficial/Desktop URL
+- privacy.html     -> Privacy Policy
+- terms.html       -> Terms of Service
+- styles.css       -> visual
+- robots.txt
+- 404.html
+
+ANTES DE PUBLICAR
+1. Abra privacy.html e terms.html.
+2. Procure por:
+   YOUR_SUPPORT_EMAIL
+3. Troque pelo seu e-mail real de suporte.
+4. Não use e-mail inventado.
+
+HOSPEDAGEM FÁCIL: GITHUB PAGES
+1. Crie um repositório PÚBLICO, por exemplo:
+   faler-video-editor-site
+2. Faça upload de TODOS os arquivos desta pasta.
+3. GitHub -> Settings -> Pages.
+4. Em "Build and deployment", selecione:
+   Deploy from a branch
+5. Branch: main
+6. Folder: / (root)
+7. Salve e aguarde o site ficar online.
+
+Exemplo de URLs depois de publicar:
+Desktop URL:
+https://SEU_USUARIO.github.io/faler-video-editor-site/
+
+Terms of Service URL:
+https://SEU_USUARIO.github.io/faler-video-editor-site/terms.html
+
+Privacy Policy URL:
+https://SEU_USUARIO.github.io/faler-video-editor-site/privacy.html
+
+VERIFICAÇÃO DO TIKTOK
+- No TikTok Developer Portal, clique em "URL properties".
+- Para app Production, o TikTok exige verificar os URLs configurados.
+- Use a opção de URL Prefix quando for mais conveniente.
+- O TikTok fornecerá um arquivo de assinatura/verificação.
+- Baixe esse arquivo e faça upload DELE SEM RENOMEAR na raiz deste site.
+- Depois confirme que o arquivo abre publicamente pela URL esperada.
+- Volte ao TikTok e conclua "Verify".
+
+IMPORTANTE
+- Não invente URL.
+- Não envie para review enquanto Privacy/Terms ainda tiverem YOUR_SUPPORT_EMAIL.
+- Este pacote é um modelo técnico e de políticas; não é aconselhamento jurídico.
